@@ -1,0 +1,1 @@
+This is a sample project from the "Python crash course" book by Eric Matthes.
