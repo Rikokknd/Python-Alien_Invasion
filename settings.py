@@ -9,3 +9,10 @@ class Settings:
 
         # ship settings
         self.ship_speed_factor = 4.5
+
+        # Параметры пули
+        self.bullet_speed_factor = 1
+        self.bullet_width = 3
+        self.bullet_height = 15
+        self.bullet_color = 60, 60, 60
+        self.bullets_allowed = 3
