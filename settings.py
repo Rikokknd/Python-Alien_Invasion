@@ -8,7 +8,7 @@ class Settings:
         self.bg_color = (230, 230, 230)
 
         # ship settings
-        self.ship_speed_factor = 4.5
+        self.ship_speed_factor = 3
 
         # Параметры пули
         self.bullet_speed_factor = 1
